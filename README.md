@@ -5,8 +5,8 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | Keterangan | Isi |
 |---|---|
 | Kelompok | Bagian I – Kelompok 03 |
-| Subsistem | [salin dari tabel 2.2 pada dokumen tugas] |
-| Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
+| Subsistem |Assignment & Assessment|
+| Layanan inti | Layanan tugas di SPADA UMI-Kalam: pemberian tugas, pengumpulan, tenggat, dan pemeriksaan kemiripan |
 | Perwakilan kelompok | [Nur Fadhilah Fauziah, 13020240251] |
 
 ## Anggota
