@@ -8,7 +8,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 |---|---|---|---|---|---|---|
 | Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); commit "[A3] tambah batasan" (tautan) | Selesai |
 | 1 | 13020240251 | Nur Fadhilah Fauziah | A1 | | | |
-| 2 | | | | | | |
+| 2 | 13020240251| Nur Fadhilah Fauziah | A2 | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |
 | 5 | | | | | | |
