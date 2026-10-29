@@ -1,22 +1,22 @@
-# Tugas Kelompok 1 – Arsitektur Perangkat Lunak (2 KKA 512)
+# Tugas Kelompok 3 – Arsitektur Perangkat Lunak (2 KKA 512)
 
 Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & Atribut Kualitas (Pertemuan 6).
 
 | Keterangan | Isi |
 |---|---|
-| Kelompok | Bagian [I / II / III] – Kelompok [XX] |
+| Kelompok | Bagian I – Kelompok 03 |
 | Subsistem | [salin dari tabel 2.2 pada dokumen tugas] |
 | Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
-| Perwakilan kelompok | [nama, stambuk] |
+| Perwakilan kelompok | [Nur Fadhilah Fauziah, 13020240251] |
 
 ## Anggota
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 | | | @ | |
-| 2 | | | @ | |
-| 3 | | | @ | |
-| 4 | | | @ | |
+| 1 | 13020240251 | Nur Fadhilah Fauziah | @13020240251@student.umi.ac.id | BAB1-A1-A2 |
+| 2 | 13020240030 | Nur Afifah | @nurafifah1666@gmail.com | A3-A4-A5 |
+| 3 | 13020240324 | ST. Nabila Azira Zamzani A | @stnabilaaziraza@gmail.com | B1-B2-B3 |
+| 4 | 13020240329 | Fera Julia Halim | @ferajulia292@gmail.com | B4-B5-BAB IV |
 
 ## Peta berkas dan penanggung jawab
 
@@ -24,19 +24,19 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
-| BAB I | laporan/BAB1-pendahuluan.md | | Belum |
-| A1 | laporan/A1-konteks-arsitektur.md | | Belum |
-| A2 | laporan/A2-stakeholder.md | | Belum |
-| A3 | laporan/A3-batasan.md | | Belum |
-| A4 | laporan/A4-asr.md | | Belum |
-| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | | Belum |
-| B1 | laporan/B1-karakteristik.md | | Belum |
-| B2 | laporan/B2-atribut-terukur.md | | Belum |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | | Belum |
-| B4 | laporan/B4-iso-25010.md | | Belum |
-| B5 | laporan/B5-trade-off.md | | Belum |
-| BAB IV | laporan/BAB4-penutup.md | | Belum |
-| Pustaka | laporan/daftar-pustaka.md | | Belum |
+| BAB I | laporan/BAB1-pendahuluan.md | Nur Fadhilah Fauziah | Belum |
+| A1 | laporan/A1-konteks-arsitektur.md | Nur Fadhilah Fauziah | Belum |
+| A2 | laporan/A2-stakeholder.md | Nur Fadhilah Fauziah | Belum |
+| A3 | laporan/A3-batasan.md | Nur Afifah | Belum |
+| A4 | laporan/A4-asr.md | Nur Afifah | Belum |
+| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Nur Afifah | Belum |
+| B1 | laporan/B1-karakteristik.md | ST. Nabila Azira Zamzani A | Belum |
+| B2 | laporan/B2-atribut-terukur.md | ST. Nabila Azira Zamzani A | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Belum |
+| B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Belum |
+| B5 | laporan/B5-trade-off.md | Fera Julia Halim | Belum |
+| BAB IV | laporan/BAB4-penutup.md | Fera JUlia Halim | Belum |
+| Pustaka | laporan/daftar-pustaka.md | Nur FAdhilah Fauziah | Belum |
 
 ## Laporan PDF terakhir
 
