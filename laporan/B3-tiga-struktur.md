@@ -28,4 +28,6 @@ Pemisahan penempatan komponen memungkinkan beban kerja sistem dibagi sesuai kebu
 
 ## Hubungan Ketiga Struktur Desain
 Ketiga struktur tersebut saling melengkapi dalam menggambarkan arsitektur sistem.
+
 |  Struktur Desain |  Fokus Utama |  Contoh Penerapan |
+|:---------------- |:------------ |:----------------- |
