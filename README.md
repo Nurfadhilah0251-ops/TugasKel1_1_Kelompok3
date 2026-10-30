@@ -32,7 +32,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Nur Afifah | Sudah |
 | B1 | laporan/B1-karakteristik.md | ST. Nabila Azira Zamzani A | Sudah |
 | B2 | laporan/B2-atribut-terukur.md | ST. Nabila Azira Zamzani A |Sudah|
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Sudah |
 | B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Sudah |
 | B5 | laporan/B5-trade-off.md | Fera Julia Halim | Sudah|
 | BAB IV | laporan/BAB4-penutup.md | Fera Julia Halim | Belum |
