@@ -1,4 +1,4 @@
 # B3. Tiga Struktur Desain
 
-Berikut
+Berikut adalah tiga diagram sederhana 
 
