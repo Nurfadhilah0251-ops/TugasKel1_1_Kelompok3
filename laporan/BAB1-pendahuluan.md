@@ -19,4 +19,4 @@ Penyusunan analisis dan perancangan arsitektur perangkat lunak untuk layanan ini
 * **Pengalaman Pengguna (User Experience):** Eksplorasi langsung terhadap antarmuka platform SPADA UMI-Kalam oleh anggota kelompok selaku mahasiswa aktif untuk mencatat alur transaksi, kendala teknis harian, serta respons waktu muat sistem.
 * **Informasi Publik:** Panduan resmi perguruan tinggi, regulasi akademik, serta dokumentasi teknis dari situs resmi Universitas Muslim Indonesia (`umi.ac.id`).
 * **Wawancara / Survei Singkat:** Diskusi dan pengumpulan tanggapan dari minimal 5 responden (terdiri atas mahasiswa FIKOM UMI sebagai pengguna akhir serta staf/pengelola unit terkait) untuk mengetahui ekspektasi kualitas layanan.
-* **Pengamatan Langsung:** Observasi kondisi operasional jaringan dan kebiasaan akses civitas akademika di lingkungan kampus UMI terutama pada masa-masa menjelang batas akhir pengumpulan tugas.
+* **Pengamatan Langsung:** Observasi kondisi operasional jaringan dan kebiasaan akses civitas akademika di lingkungan Fakultas Ilmu Komputer Universitas Muslim Indonesia (FIKOM UMI), terutama pada masa-masa menjelang batas akhir pengumpulan tugas.
