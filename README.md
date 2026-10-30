@@ -30,11 +30,11 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A3 | laporan/A3-batasan.md | Nur Afifah | Sudah |
 | A4 | laporan/A4-asr.md | Nur Afifah | Sudah |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Nur Afifah | Sudah |
-| B1 | laporan/B1-karakteristik.md | ST. Nabila Azira Zamzani A | Belum |
-| B2 | laporan/B2-atribut-terukur.md | ST. Nabila Azira Zamzani A | Belum |
+| B1 | laporan/B1-karakteristik.md | ST. Nabila Azira Zamzani A | Sudah |
+| B2 | laporan/B2-atribut-terukur.md | ST. Nabila Azira Zamzani A |Sudah|
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Belum |
-| B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Belum |
-| B5 | laporan/B5-trade-off.md | Fera Julia Halim | Belum |
+| B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Sudah |
+| B5 | laporan/B5-trade-off.md | Fera Julia Halim | Sudah|
 | BAB IV | laporan/BAB4-penutup.md | Fera Julia Halim | Belum |
 | Pustaka | laporan/daftar-pustaka.md | Nur FAdhilah Fauziah | Sudah |
 
