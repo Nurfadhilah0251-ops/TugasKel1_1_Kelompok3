@@ -35,7 +35,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Sudah |
 | B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Sudah |
 | B5 | laporan/B5-trade-off.md | Fera Julia Halim | Sudah|
-| BAB IV | laporan/BAB4-penutup.md | Fera Julia Halim | Belum |
+| BAB IV | laporan/BAB4-penutup.md | Fera Julia Halim | Sudah |
 | Pustaka | laporan/daftar-pustaka.md | Nur FAdhilah Fauziah | Sudah |
 
 ## Laporan PDF terakhir
