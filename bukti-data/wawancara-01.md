@@ -12,4 +12,4 @@
 | 2. Apakah Kaka pernah mengalami kendala teknis seperti gagal unggah karena ukuran file (file size) yang terlalu besar atau server yang lambat? | Sejauh ini saya tidak pernah mengalami kendala gagal unggah karena ukuran file yang terlalu besar. Namun untuk kendala server yang lambat pernah terjadi, kemungkinan karena bertepatan dengan waktu pemeliharaan sistem, terutama jika mengakses di atas jam 12 malam terkadang sistem tidak bisa diakses.| 
 
 ## Temuan yang dipakai pada laporan
-- [kode bagian, misalnya A3 atau B2]: [temuan]
+- A4
