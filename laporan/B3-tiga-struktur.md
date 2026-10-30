@@ -31,3 +31,5 @@ Ketiga struktur tersebut saling melengkapi dalam menggambarkan arsitektur sistem
 
 |  Struktur Desain |  Fokus Utama |  Contoh Penerapan |
 |:---------------- |:------------ |:----------------- |
+| Struktur Modul   | Pembagian Fungsi Sistem | Modul pengumpulan, tenggat, dan pemeriksaan kemiripan |
+|:---------------- |:----------------------- |:----------------------------------------------------- |
