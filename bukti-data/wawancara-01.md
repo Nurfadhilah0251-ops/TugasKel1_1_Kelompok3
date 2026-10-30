@@ -2,8 +2,8 @@
 
 - **Tanggal:** [30-10-2026]
 - **Responden (peran saja):** [contoh: mahasiswa semester 5 / staf unit terkait]
-- **Pewawancara:** [nama anggota]
-- **Layanan yang dibahas:** [layanan inti kelompok]
+- **Pewawancara:** ST. Nabila
+- **Layanan yang dibahas:** Layanan Tugas & Penilaian di platform SPADA UMI-Kalam
 
 ## Pertanyaan dan ringkasan jawaban
 | Pertanyaan | Ringkasan jawaban |
