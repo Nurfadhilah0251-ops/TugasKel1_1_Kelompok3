@@ -24,3 +24,8 @@ Struktur alokasi menggambarkan bagaimana komponen atau modul perangkat lunak dit
 
 #### Alasan pemilihan struktur : 
 Pemisahan penempatan komponen memungkinkan beban kerja sistem dibagi sesuai kebutuhan. Application Server menangani permintaan pengguna, sedangkan Processing Server secara khusus menangani pemeriksaan kemiripan dokumen. Dengan demikian, ketika banyak mahasiswa mengunggah tugas secara bersamaan, proses pemeriksaan kemiripan dapat berjalan melalui server pemrosesan tanpa terlalu membebani layanan utama.
+
+
+## Hubungan Ketiga Struktur Desain
+Ketiga struktur tersebut saling melengkapi dalam menggambarkan arsitektur sistem.
+|  Struktur Desain |  Fokus Utama |  Contoh Penerapan |
