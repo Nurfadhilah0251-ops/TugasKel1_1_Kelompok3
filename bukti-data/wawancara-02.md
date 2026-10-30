@@ -2,7 +2,7 @@
 
 - **Tanggal:** [30-10-2026]
 - **Responden (peran saja):** Dosen pembimbing dan penguji
-- **Pewawancara:** ST Nabila Azira Zamzani A
+- **Pewawancara:** FERA JULIA HALIM
 - **Layanan yang dibahas:** Layanan Tugas & Penilaian di platform SPADA UMI-Kalam
 
 ## Pertanyaan dan ringkasan jawaban
