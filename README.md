@@ -24,19 +24,19 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
-| BAB I | laporan/BAB1-pendahuluan.md | Nur Fadhilah Fauziah | Belum |
-| A1 | laporan/A1-konteks-arsitektur.md | Nur Fadhilah Fauziah | Belum |
-| A2 | laporan/A2-stakeholder.md | Nur Fadhilah Fauziah | Belum |
-| A3 | laporan/A3-batasan.md | Nur Afifah | Belum |
-| A4 | laporan/A4-asr.md | Nur Afifah | Belum |
-| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Nur Afifah | Belum |
+| BAB I | laporan/BAB1-pendahuluan.md | Nur Fadhilah Fauziah | Sudah |
+| A1 | laporan/A1-konteks-arsitektur.md | Nur Fadhilah Fauziah | Sudah |
+| A2 | laporan/A2-stakeholder.md | Nur Fadhilah Fauziah | Sudah |
+| A3 | laporan/A3-batasan.md | Nur Afifah | Sudah |
+| A4 | laporan/A4-asr.md | Nur Afifah | Sudah |
+| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Nur Afifah | Sudah |
 | B1 | laporan/B1-karakteristik.md | ST. Nabila Azira Zamzani A | Belum |
 | B2 | laporan/B2-atribut-terukur.md | ST. Nabila Azira Zamzani A | Belum |
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | ST. Nabila Azira Zamzani A  | Belum |
 | B4 | laporan/B4-iso-25010.md | Fera Julia Halim | Belum |
 | B5 | laporan/B5-trade-off.md | Fera Julia Halim | Belum |
-| BAB IV | laporan/BAB4-penutup.md | Fera JUlia Halim | Belum |
-| Pustaka | laporan/daftar-pustaka.md | Nur FAdhilah Fauziah | Belum |
+| BAB IV | laporan/BAB4-penutup.md | Fera Julia Halim | Belum |
+| Pustaka | laporan/daftar-pustaka.md | Nur FAdhilah Fauziah | Sudah |
 
 ## Laporan PDF terakhir
 
