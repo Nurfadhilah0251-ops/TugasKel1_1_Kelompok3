@@ -8,8 +8,9 @@
 ## Pertanyaan dan ringkasan jawaban
 | Pertanyaan | Ringkasan jawaban |
 |---|---|
-| 1. Bagaimana pengalaman kaka selama mengunggah berkas tugas atau laporan praktikum di SPADA UMI-Kalam, khususnya saat mendekati batas waktu (deadline) pengumpulan? | Pengalaman saya selama menggunakan KALAM cukup memuaskan. Sistemnya fleksibel, tidak seperti dulu yang harus mengumpulkan tugas langsung ke dosen. Sekarang bisa diunggah kapan saja dan di mana saja, jadi sangat membantu terutama saat mendekati deadline pengumpulan.|
-| 2. Apakah Kaka pernah mengalami kendala teknis seperti gagal unggah karena ukuran file (file size) yang terlalu besar atau server yang lambat? | Sejauh ini saya tidak pernah mengalami kendala gagal unggah karena ukuran file yang terlalu besar. Namun untuk kendala server yang lambat pernah terjadi, kemungkinan karena bertepatan dengan waktu pemeliharaan sistem, terutama jika mengakses di atas jam 12 malam terkadang sistem tidak bisa diakses.| 
+| 1. Bagaimana pengalaman Anda selama ini saat mengunggah tugas kuliah, laporan praktikum, atau tugas besar di platform SPADA UMI-Kalam? | Cukup bagus tapi minesnya ukuran file harus di kompres sekecil mungkin dan itu butuh waktu lagi.|
+| 2. Apakah Anda pernah mengalami kendala teknis saat mengunggah tugas, misalnya file gagal terkirim, koneksi terputus, atau sistem terasa lambat/loading lama? | ⁠ya, pernah beberapa kali karna jaringan dan loading lama. |
+| 3. Masukan atau fitur apa yang paling Anda harapkan agar layanan penugasan dan penilaian di SPADA UMI-Kalam bisa lebih memudahkan mahasiswa ke depannya? | ⁠untuk mengapload tugas tolong ubah ukuran minimalnya jadi 1mb karna kalau kb sangat kecil|
 
 ## Temuan yang dipakai pada laporan
-- [kode bagian, misalnya A3 atau B2]: [temuan]
+-
