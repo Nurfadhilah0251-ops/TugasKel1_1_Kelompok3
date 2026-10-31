@@ -32,5 +32,5 @@ Ketiga struktur tersebut saling melengkapi dalam menggambarkan arsitektur sistem
 |  Struktur Desain |  Fokus Utama |  Contoh Penerapan |
 |:---------------- |:------------ |:----------------- |
 | Struktur Modul   | Pembagian Fungsi Sistem | Modul pengumpulan, tenggat, dan pemeriksaan kemiripan |
-| Struktur Komponen dan Konektor | Interaksi antarkomponen | Submission Service berkomunikasi dengan Database dan Message Queue |
-| Struktur Alokasi | Penempatan komponen | Similarity Service ditempatkan pada Processing Server |
+| Struktur Komponen dan Konektor | Interaksi Antarkomponen | Submission Service berkomunikasi dengan Database dan Message Queue |
+| Struktur Alokasi | Penempatan Komponen | Similarity Service ditempatkan pada Processing Server |
