@@ -9,7 +9,7 @@ Berikut adalah draf untuk bagian ASR (Architecturally Significant Requirements d
 * **Alasan Pengaruh pada Arsitektur:** Kebutuhan ini sangat memengaruhi desain arsitektur karena lonjakan akses secara simultan berpotensi menyebabkan bottleneck pada server web dan basis data relasional pusat SPADA UMI-Kalam. Oleh karena itu, arsitektur sistem harus mengadopsi mekanisme penanganan beban seperti caching data referensi dan antrean proses (message queue) untuk menjaga stabilitas respons sistem.
 
 ## 2. ASR 2: Integritas Data dan Rekam Jejak Audit (Integrity & Auditability)
-* **Pernyataan Kebutuhan:** Setiap aktivitas penting—seperti pengunggahan tugas oleh mahasiswa, penetapan tenggat waktu oleh dosen, hasil pemeriksaan kemiripan (similarity check), hingga penginputan nilai akhir—wajib terekam secara permanen, aman, dan tidak dapat dimanipulasi (tamper-proof audit trail).
+* **Pernyataan Kebutuhan:** Setiap aktivitas penting seperti pengunggahan tugas oleh mahasiswa, penetapan tenggat waktu oleh dosen, hasil pemeriksaan kemiripan (similarity check), hingga penginputan nilai akhir—wajib terekam secara permanen, aman, dan tidak dapat dimanipulasi (tamper-proof audit trail).
 * **Alasan Pengaruh pada Arsitektur:** Aspek integritas akademik di lingkungan FIKOM UMI menuntut tingkat keandalan data yang tinggi. Hal ini memaksa perancang arsitektur untuk menetapkan batasan transaksi basis data (ACID transactions) yang ketat serta memisahkan lapisan pencatatan log aktivitas (audit logging service) dari logika bisnis utama agar setiap perubahan status penilaian memiliki jejak digital yang jelas.
 
 ## 3. ASR 3: Keamanan dan Otorisasi Akses Berkas Sensitif (Security & Confidentiality)
