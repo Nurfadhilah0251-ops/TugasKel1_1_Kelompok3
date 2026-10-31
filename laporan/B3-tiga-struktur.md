@@ -1,6 +1,6 @@
 # B3. Tiga Struktur Desain
 
-Berikut adalah tiga diagram sederhana pada subsistem Assignment & Assessment yang diklasifikasikan berdasarkan jenis struktur diantaranya : 
+Berikut adalah tiga diagram sederhana pada subsistem Assignment & Assessment yang diklasifikasikan berdasarkan jenis struktur, diantaranya : 
 ## 1. Struktur Modul
 Struktur modul menggambarkan pembagian sistem menjadi beberapa modul berdasarkan fungsi dan tanggung jawabnya. Setiap modul memiliki tugas masing-masing agar sistem lebih mudah dikembangkan dan dipelihara.
 
